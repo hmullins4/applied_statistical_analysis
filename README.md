@@ -1,1 +1,3 @@
 # applied_statistical_analysis
+
+This project used SAS to perform hypothesis testing, regression analysis, and SQL-based data manipulation across multiple structured datasets. I conducted one-sample and two-sample t-tests to compare means, built a multiple linear regression model to evaluate the relationship between a response variable and four predictors, and used PROC SQL for filtering, aggregation, and joins. The work also included importing external CSV data, summarizing grouped statistics, identifying top records by a key metric, and combining related tables into unified outputs. Overall, the project demonstrates applied skills in statistical inference, predictive modeling, data wrangling, and relational data analysis in SAS.
